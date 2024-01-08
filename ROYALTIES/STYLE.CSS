@@ -1,0 +1,14 @@
+header nav{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+nav.Logo{
+    color: blue;
+}
